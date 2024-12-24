@@ -1,0 +1,2 @@
+TripMate is an AI based tour organizer, designed to simplify and enhance the travel planning experience. Leveraging advanced AI technologies, this system provides personalized schedules, optimizes travel routes, suggests accommodations, and offers real-time updates, ensuring a seamless travel experience for users. 
+The application is developed using React Native for cross-platform mobile development, with Gemini for AI-powered decision-making, Firebase for real-time data management and authentication.
